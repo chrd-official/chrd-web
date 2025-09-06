@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/chrd-web/static/css/main.d8552885.css",
-    "main.js": "/chrd-web/static/js/main.21139da4.js",
+    "main.js": "/chrd-web/static/js/main.1847de38.js",
     "static/js/453.02c54a5b.chunk.js": "/chrd-web/static/js/453.02c54a5b.chunk.js",
     "static/media/the_interlude.png": "/chrd-web/static/media/the_interlude.de42b4e247e8b3068bf7.png",
     "index.html": "/chrd-web/index.html",
     "main.d8552885.css.map": "/chrd-web/static/css/main.d8552885.css.map",
-    "main.21139da4.js.map": "/chrd-web/static/js/main.21139da4.js.map",
+    "main.1847de38.js.map": "/chrd-web/static/js/main.1847de38.js.map",
     "453.02c54a5b.chunk.js.map": "/chrd-web/static/js/453.02c54a5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8552885.css",
-    "static/js/main.21139da4.js"
+    "static/js/main.1847de38.js"
   ]
 }
