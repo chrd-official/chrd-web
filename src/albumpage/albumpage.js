@@ -53,7 +53,7 @@ function AlbumPage() {
 
   return (
     <div>
-      <Header />
+      
 
       <div
         style={{
