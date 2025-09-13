@@ -10,19 +10,19 @@ function Footer() {
             <a href="https://www.instagram.com/chrdofficial/">
               <img
                 style={{ width: "40px", height: "40px" }}
-                src="../insta.png"
+                src="..//insta.png"
               ></img>
             </a>
             <a href="https://www.tiktok.com/@chrdofficial">
               <img
                 style={{ width: "40px", height: "40px" }}
-                src="../tiktok.png"
+                src="..//tiktok.png"
               ></img>
             </a>
             <a href="https://x.com/CHRDOFFICIAL">
               <img
                 style={{ width: "40px", height: "40px" }}
-                src="../X.png"
+                src="..//X.png"
               ></img>
             </a>
           </div>
