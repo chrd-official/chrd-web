@@ -10,7 +10,7 @@ function Footer() {
             <a href="https://www.instagram.com/chrdofficial/">
               <img
                 style={{ width: "40px", height: "40px" }}
-                src=https:"//chrd-official.github.io/chrd-web/insta.png"
+                src={`${process.env.PUBLIC_URL}/insta.png`}
               ></img>
             </a>
             <a href="https://www.tiktok.com/@chrdofficial">
